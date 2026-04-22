@@ -31,7 +31,6 @@ I am a passionate **Software Engineer** and an **Assistant Lecturer at the Java 
 
 ### 📬 Get in Touch
 - 📧 Email: pasindusankalpa991026@gmail.com
-- 💼 LinkedIn: [ඔයාගේ LinkedIn Link එක මෙතන දාන්න]
 
 ---
 
