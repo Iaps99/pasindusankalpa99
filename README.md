@@ -33,7 +33,3 @@ I am a passionate **Software Engineer** and an **Assistant Lecturer at the Java 
 - 📧 Email: pasindusankalpa991026@gmail.com
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ඔයාගේ-Github-Username-එක]&show_icons=true&theme=radical" alt="My Stats" />
-</p>
